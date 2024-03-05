@@ -4,8 +4,7 @@
 2、肥猫接口：https://raw.kkgithub.com/iuse63/otherbox/main/fm.json<br>
 3、未知接口：https://raw.kkgithub.com/iuse63/otherbox/main/ziyuan.json<br>
 4、莱妮丝接口：https://raw.kkgithub.com/iuse63/otherbox/main/lainisi.json<br>
-5、荷城茶秀接口：https://raw.kkgithub.com/iuse63/otherbox/main/hechengchaxiu.json<br>
-6、俊佬接口：https://raw.kkgithub.com/iuse63/otherbox/main/junlao.json<br>
+5、俊佬接口：https://raw.kkgithub.com/iuse63/otherbox/main/junlao.json<br>
 
 
 
