@@ -1,0 +1,12 @@
+{
+  "urls": [
+      {
+      "name": "饭太硬接口",
+      "url": "https://raw.kkgithub.com/iuse63/mybox/main/fty.json"
+    },
+    {
+      "name": "肥猫接口",
+      "url": "https://raw.kkgithub.com/iuse63/mybox/main/%E8%82%A5%E7%8C%AB.json"
+    }
+  ]
+}
