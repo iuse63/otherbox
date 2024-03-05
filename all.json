@@ -2,11 +2,15 @@
   "urls": [
       {
       "name": "饭太硬接口",
-      "url": "https://raw.kkgithub.com/iuse63/mybox/main/fty.json"
+      "url": "https://raw.kkgithub.com/iuse63/otherbox/main/fty.json"
     },
     {
       "name": "肥猫接口",
-      "url": "https://raw.kkgithub.com/iuse63/mybox/main/fm.json"
+      "url": "https://raw.kkgithub.com/iuse63/otherbox/main/fm.json"
+    },
+    {
+      "name": "未知接口",
+      "url": "https://raw.kkgithub.com/iuse63/otherbox/main/ziyuan.json"
     }
   ]
 }
