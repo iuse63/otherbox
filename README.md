@@ -3,6 +3,9 @@
 搬迁的接口1：https://raw.kkgithub.com/iuse63/otherbox/main/fty.json<br>
 搬迁的接口2：https://raw.kkgithub.com/iuse63/otherbox/main/fm.json<br>
 搬迁的接口3：https://raw.kkgithub.com/iuse63/otherbox/main/ziyuan.json<br>
+搬迁的接口4：https://raw.kkgithub.com/iuse63/otherbox/main/lainisi.json<br>
+
+
 
 
 
