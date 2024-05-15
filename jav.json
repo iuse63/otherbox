@@ -1,5 +1,5 @@
 {
-"spider":"https://ghcy.eu.org/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/jar/jav.jar;md5;1c8d1a16f5969512dde56c97ec099765",
+"spider":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/jav.jar",
 "wallpaper":"https://gao.chuqiuyu.workers.dev",
 "sites":[
 {"key":"豆瓣","name":"🌕推荐┃豆瓣","type":3,"api":"csp_Douban","searchable":0,"indexs":1},
@@ -41,7 +41,7 @@
 {"key":"色屌丝资源💞","name":"💞色屌丝资源💞","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"},
 {"key":"热巴资源","name":"*热巴资源","type":1,"api":"http://reba.aishunxs.com/api.php/provide/vod/"},
 {"key":"泡芙资源","name":"*泡芙资源","type":0,"api":"http://zmcj88.com/api?ac=list"},
-{"key":"咪咪资源💞","name":"💞咪咪资源💞","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"},
+{"key":"咪咪资源💞","name":"💞咪咪资源💞","type":0，"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"},
 {"key":"咪咪","name":"*咪咪","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml"},
 {"key":"乐播资源1","name":"🔞乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","filterable":0},
 {"key":"乐播1","name":"🔞乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/"},
@@ -89,14 +89,14 @@
 */
 {"key":"Doll","name":"🔞资源┃玩偶","type":3,"api":"csp_Doll"}
 
-],
+]，
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
 {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
-],
+]，
 "rules":[
 {"name":"kk","hosts":["kuaikan"],"regex":["5","20.123","20.167","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"]},
 {"name":"yqk","hosts":["yqk"],"regex":["18.4","15.1666","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"]},
@@ -109,7 +109,7 @@
 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
-],
+]，
 "lives":[
 {"name":"高天1","type":0,"playerType":1,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
 {"name":"高天2","type":0,"playerType":1,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"},
