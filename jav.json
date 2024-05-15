@@ -11,8 +11,8 @@
 {"key":"乐播资源💞","name":"💞乐播资源💞","type":1,"api":"https://lbapi9.com/api.php/provide/vod/"},
 {"key":"大地资源💞","name":"💞大地资源💞","type":0,"api":"https://dadiapi.com/api.php"},
 {"key":"白嫖资源💞","name":"💞白嫖资源💞","type":0,"api":"https://www.kxgav.com/api/xml.php"},
-{"key":"bxguwen","name":"💞bxguwen💞","type":0,"api":"http://ios.bxguwen.com/vod/"},
-{"key":"乐播","name":"💞乐播💞","type":0,"api":"https://lebozy.com/api.php/provide/art/at/xml/"},
+{"key":"bxguwen","name":"💞bxguwen💞","type":1,"api":"http://ios.bxguwen.com/"},
+{"key":"乐播","name":"💞乐播💞","type":1,"api":"https://lebozy.com/api.php/provide/art/at/xml/"},
 
 
 {"key":"XMVideo","name":"🔞熊猫视频┃珍惜","type":3,"api":"csp_XMVideo"},
