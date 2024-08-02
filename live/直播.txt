@@ -1,0 +1,15 @@
+[
+{"name":"IPV4","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/ipv4.txt"},
+{"name":"TVlive","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/TVlive.txt"},
+{"name":"fmml_ipv6","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/fmml_ipv6.txt"},
+{"name":"hd-live","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/hd-live-all.txt"},
+{"name":"ipv6","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/ipv6.txt"},
+{"name":"live","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/live.txt"},
+{"name":"tvlive","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/tvlive.txt"},
+{"name":"y_g","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/y_g.txt"},
+{"name":"ycl_iptv","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/ycl_iptv.txt"},
+
+
+
+{"name":"模板","url":"地址"}
+]
