@@ -8,6 +8,8 @@
 {"name":"tvlive","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/tvlive.txt"},
 {"name":"y_g","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/y_g.txt"},
 {"name":"ycl_iptv","url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/otherbox/main/lives/lives/ycl_iptv.txt"},
+{"name":"index18","url":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"},
+{"name":"cheng","url":"https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/sjdy.txt"},
 
 
 
